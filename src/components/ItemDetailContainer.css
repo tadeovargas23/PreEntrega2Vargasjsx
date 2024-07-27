@@ -1,0 +1,11 @@
+.item-detail-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.item-detail-image {
+  width: 100%;
+  height: auto;
+  max-height: 300px;
+  object-fit: contain;
+}
